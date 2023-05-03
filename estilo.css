@@ -1,0 +1,33 @@
+h1{
+    color: black (243,55,187,0.8) ;
+    font-size: 55px;
+    font-family: 'DM Serif Display', serif;
+}
+/*body{
+    background-image: url(https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/JenniferAnistonHWoFFeb2012.jpg/640px-JenniferAnistonHWoFFeb2012.jpg);
+
+}*/
+.dio{
+    color: red;
+font-size: 70px;
+}
+.mjo{
+    color: rebeccapurple;
+  font-size: 70px;
+}
+img
+{
+ width: 150px;
+ height: 150px;
+ border: 5% solid black;
+ border-radius: 10px;
+ border-radius: 20%;
+    
+}
+div{
+column-count: 1;
+column-gap: 50px;
+column-rule: 10px double black;
+
+}
+
